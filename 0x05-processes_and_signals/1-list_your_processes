@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+#
+# Display a list of all running processes in a tree-like, user-oriented format
+
+ps -e f
