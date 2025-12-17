@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+#
+# Display lines containing 'bash' to show Bash process IDs
+# shellcheck disable=SC2009
+
+ps -e f | grep bash
