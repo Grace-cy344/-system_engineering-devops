@@ -1,4 +1,8 @@
 #!/bin/bash
-for i in {1..10}; do
-    echo "Best School"
-done
+[Got]
+f
+(1 chars long)
+
+[Expected]
+#
+(1 chars long)
